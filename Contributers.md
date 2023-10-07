@@ -1,4 +1,5 @@
 ##Contributers Name
 - Briheet Singh Yadav
 - Ishan Grover
--Satyam Srivastav
+- Satyam Srivastav
+- Vandana Gupta
