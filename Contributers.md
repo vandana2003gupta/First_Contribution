@@ -1,4 +1,6 @@
-##Contributers Name
-- Briheet Singh Yadav
+## Contributers Name
+
 - Ishan Grover
--Satyam Srivastav
+- Saksham Tyagi
+- Satyam Srivastav
+- Briheet Singh Yadav
